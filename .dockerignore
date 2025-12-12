@@ -1,0 +1,5 @@
+# ignore everything except the Dockerfile
+*
+!Dockerfile
+!buildpatch.py
+!overrides/

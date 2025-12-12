@@ -1,0 +1,8 @@
+certs/
+custom-templates/
+media/
+postgres/
+venv/
+authentik/
+authentik-copy/
+.env
